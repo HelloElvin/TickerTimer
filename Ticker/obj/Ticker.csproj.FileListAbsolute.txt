@@ -1,0 +1,21 @@
+C:\Users\Elvin\Documents\SharpDevelop Projects\Ticker\Ticker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Elvin\Documents\SharpDevelop Projects\Ticker\Ticker\obj\Debug\Ticker.MainForm.resources
+C:\Users\Elvin\Documents\SharpDevelop Projects\Ticker\Ticker\obj\Debug\Ticker.csproj.GenerateResource.Cache
+C:\Users\Elvin\Documents\SharpDevelop Projects\Ticker\Ticker\bin\Debug\Ticker.exe
+C:\Users\Elvin\Documents\SharpDevelop Projects\Ticker\Ticker\bin\Debug\Ticker.pdb
+C:\Users\Elvin\Documents\SharpDevelop Projects\Ticker\Ticker\obj\Debug\Ticker.exe
+C:\Users\Elvin\Documents\SharpDevelop Projects\Ticker\Ticker\obj\Debug\Ticker.pdb
+E:\project\TickerTimer\Ticker\bin\Debug\Ticker.exe
+E:\project\TickerTimer\Ticker\bin\Debug\Ticker.pdb
+E:\project\TickerTimer\Ticker\obj\Debug\ResolveAssemblyReference.cache
+E:\project\TickerTimer\Ticker\obj\Debug\Ticker.MainForm.resources
+E:\project\TickerTimer\Ticker\obj\Debug\Ticker.csproj.GenerateResource.Cache
+E:\project\TickerTimer\Ticker\obj\Debug\Ticker.exe
+E:\project\TickerTimer\Ticker\obj\Debug\Ticker.pdb
+F:\Project\TickerTimer\Ticker\obj\Debug\ResolveAssemblyReference.cache
+F:\Project\TickerTimer\Ticker\obj\Debug\Ticker.MainForm.resources
+F:\Project\TickerTimer\Ticker\obj\Debug\Ticker.csproj.GenerateResource.Cache
+F:\Project\TickerTimer\Ticker\obj\Debug\Ticker.exe
+F:\Project\TickerTimer\Ticker\bin\Debug\Ticker.exe
+F:\Project\TickerTimer\Ticker\bin\Debug\Ticker.pdb
+F:\Project\TickerTimer\Ticker\obj\Debug\Ticker.pdb

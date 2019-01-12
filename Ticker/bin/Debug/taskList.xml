@@ -1,0 +1,36 @@
+﻿<TaskPool>
+<TaskList name="OnlyOne" startDate="1.10" endDate="1.10">
+    <Task>
+	    <Time>14:17</Time>
+	    <Cmd>WriteTester</Cmd>
+	    <workDay>1110111</workDay>
+	</Task>
+    <Task>
+	    <Time>14:20</Time>
+	    <Cmd>WriteTester</Cmd>
+	    <workDay>1111111</workDay>
+	</Task>
+    <Task>
+	    <Time>17:26</Time>
+	    <Cmd>WriteTester</Cmd>
+	    <workDay>1111111</workDay>
+	</Task>
+</TaskList>
+<TaskList name="Second" startDate="2.3" endDate="1.8">
+    <Task>
+	    <Time>14:34</Time>
+	    <Cmd>WriteTester</Cmd>
+	    <workDay>1110111</workDay>
+	</Task>
+    <Task>
+	    <Time>14:35</Time>
+	    <Cmd>WriteTester</Cmd>
+	    <workDay>1111111</workDay>
+	</Task>
+    <Task>
+	    <Time>15:36</Time>
+	    <Cmd>WriteTester</Cmd>
+	    <workDay>1111111</workDay>
+	</Task>
+</TaskList>
+</TaskPool>
